@@ -7,7 +7,7 @@ function draw() {
   //FLOOR
   noStroke();
   fill (159, 153, 183);
-  rect (0, 550, 800, 205);
+  rect (0, 550, 1440, 305);
 
   //FIRST ROBOT !!!!!
 
